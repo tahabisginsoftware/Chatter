@@ -1,4 +1,4 @@
-![Chatter](https://raw.githubusercontent.com/tahabisginsoftware/Chatter/master/screenshots/Github%20Cover.png?token=GHSAT0AAAAAABZ4SP2QXWHXBF3CBDZGABNUY3QYRLA "Chatter")
+![Chatter](https://raw.githubusercontent.com/tahabisginsoftware/Chatter/master/screenshots/Github%20Cover.png?token=GHSAT0AAAAAABZ4SP2QDJIPN5NIC7EE3D36Y3QYX7A "Chatter")
 
 A budget manager made with react-native. <br>
 Made by Taha Bisgin. <br>
