@@ -17,7 +17,7 @@ Start server: `npm start` / `yarn start`
 
 # Live Demo
 
-[Here](https://tahabisginsoftware.com) is a live demo.
+[Here](https://chattertbs.netlify.app/) is a live demo.
 
 # Screenshots
 <img align="left" alt="budget1" src="https://github.com/tahabisginsoftware/Chatter/blob/master/screenshots/screen_one.png" width="1920" />
