@@ -1,6 +1,6 @@
 ![Chatter](https://github.com/tahabisginsoftware/Chatter/blob/master/screenshots/Github%20Cover.png "Chatter")
 
-A budget manager made with react-native. <br>
+A chat app made with react and firebase. <br>
 Made by Taha Bisgin. <br>
 https://tahabisginsoftware.com
 
