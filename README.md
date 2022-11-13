@@ -24,6 +24,6 @@ Alternatively, you can start both the server and the app up by: `npm run android
 MyBudget is not finished yet, I will make a newer, better version in the future. But for now I have more projects coming up, that are more advanced and have more features!
 
 # Screenshots
-<img align="left" alt="budget1" src="https://raw.githubusercontent.com/tahabisginsoftware/Chatter/master/screenshots/screen_one.png?token=GHSAT0AAAAAABZ4SP2QPOVUJK5WPOJOU4HIY3QYXDA" width="300"/>
+<img align="left" alt="budget1" src="https://raw.githubusercontent.com/tahabisginsoftware/Chatter/master/screenshots/screen_one.png?token=GHSAT0AAAAAABZ4SP2QPOVUJK5WPOJOU4HIY3QYXDA" width="1920" height="1080"/>
 <br>
 ©TahaBisginSoftware, all rights reserved.
